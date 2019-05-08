@@ -1,0 +1,23 @@
+{
+  "name": "dani_antelo",
+  "version": "1.0.0",
+  "description": "personal site for Dani Antelo Reality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lee-ArnoldIII/dani_antelo_site.git"
+  },
+  "author": "Lee-ArnoldIII",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lee-ArnoldIII/dani_antelo_site/issues"
+  },
+  "homepage": "https://github.com/Lee-ArnoldIII/dani_antelo_site#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
