@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Navbar from '../components/Navbar'
 import DaniProfile from '../../img/daniProfilePic.jpg'
+import '../../styles/About.css'
 
 class About extends Component {
   render () {
@@ -8,6 +9,7 @@ class About extends Component {
       <div>
         <Navbar />
         <br />
+        {/* Upper hero */}
         <section className='hero is-light is-bold'>
           <div className='hero-body'>
             <div className='container'>
@@ -22,6 +24,15 @@ class About extends Component {
               <h2 className='subtitle'>
                 Your Houston Broker Team Leader
               </h2>
+            </div>
+          </div>
+        </section>
+
+        {/* Lower hero */}
+        <section className='hero gunmetal is-large'>
+          <div className='hero-body'>
+            <div className='container gunmetal'>
+              <p>Test of color</p>
             </div>
           </div>
         </section>
