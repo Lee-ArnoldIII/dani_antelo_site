@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/Lee-ArnoldIII/dani_antelo_site#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "bulma": "^0.7.4",
+    "bulma-start": "0.0.3",
+    "express": "^4.16.4",
+    "node-sass": "^4.12.0",
+    "nodemon": "^1.19.0"
   }
 }
