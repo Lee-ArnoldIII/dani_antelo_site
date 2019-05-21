@@ -9,7 +9,7 @@ class Navbar extends Component {
         <nav class='navbar' role='navigation' aria-label='main navigation'>
           <div class='navbar-brand'>
             <a class='navbar-item' href='./home'>
-              <img src={download} width='100' height='100' />
+              <img src={download} width='100' height='10px' padding='20px' />
             </a>
 
             <a role='button' class='navbar-burger burger' aria-label='menu' aria-expanded='false' data-target='navbarBasicExample'>
