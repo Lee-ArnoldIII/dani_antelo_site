@@ -38,9 +38,7 @@ class About extends Component {
                 Representative (AABR). She earned her Broker's license in 2018 and is currently a Broker
                 Associate with Keller Williams Reality.
               </p>
-              <p>
-                This is to see where this falls
-              </p>
+
             </div>
           </div>
         </section>
