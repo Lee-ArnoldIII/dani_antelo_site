@@ -32,7 +32,15 @@ class About extends Component {
         <section className='hero gunmetal is-large'>
           <div className='hero-body'>
             <div className='container gunmetal'>
-              <p>Test of color</p>
+              <p>Daniela Antelo has been a Houston-based real estate professional since 2011.
+                Over the course of her career, she has earned multiple designations, such as Certified
+                Negotion Expert (CNE), Accredited Luxury Home Specialist (ALHM), and Accredited Buyer
+                Representative (AABR). She earned her Broker's license in 2018 and is currently a Broker
+                Associate with Keller Williams Reality.
+              </p>
+              <p>
+                This is to see where this falls
+              </p>
             </div>
           </div>
         </section>

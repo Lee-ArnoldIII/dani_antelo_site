@@ -46,6 +46,12 @@ class Navbar extends Component {
                 </a>
               </Link>
 
+              <Link to={'./valuation'}>
+                <a className='navbar-item'>
+                Valuation
+                </a>
+              </Link>
+
             </div>
           </div>
 

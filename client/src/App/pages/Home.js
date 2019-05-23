@@ -9,6 +9,7 @@ class Home extends Component {
       <div>
         <div>
           <Navbar />
+          Test
         </div>
       </div>
     )
