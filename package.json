@@ -20,7 +20,7 @@
   "dependencies": {
     "bulma": "^0.7.4",
     "bulma-start": "0.0.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "node-sass": "^4.12.0",
     "nodemon": "^1.19.0"
   }
